@@ -1,10 +1,10 @@
-package org.ricemill.ricemillsspa;
+package org.ricemill.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RiceMillsSpaApplicationTests {
+class BackendApplicationTests {
 
     @Test
     void contextLoads() {
